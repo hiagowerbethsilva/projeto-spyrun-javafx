@@ -113,9 +113,27 @@ meu-xamego/
 ```
 
 ---
+## 📂 Como rodar pelo plugin Maven no VS Code
+1. Abra o painel MAVEN
 
+No VS Code, clique no ícone MAVEN (barra lateral esquerda).
 
+Você verá o módulo do projeto (ex.: spyrun) e a lista de Plugins.
 
+2. Expanda o seu módulo e depois Plugins
+
+Clique na seta ao lado do módulo (spyrun) para abrir.
+
+Expanda Plugins para ver os plugins/goal disponíveis (ex.: jlink, run, etc).
+
+3. Localize o goal que deseja executar
+
+O nome pode ser javafx (com o goal run) ou um plugin run/exec.
+
+Se o plugin JavaFX estiver configurado no pom.xml, deverá aparecer algo como javafx → run (ou apenas run sob org.openjfx:javafx-maven-plugin).
+
+## 📂 Como rodar pelo terminal
+O VS Code abrirá um terminal/saída chamado Maven mostrando o progresso da execução (mesmo que internamente ele rode mvn javafx:run).
 ---
 
 ## ❤️ Agradecimentos
