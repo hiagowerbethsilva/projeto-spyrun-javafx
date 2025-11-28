@@ -119,7 +119,7 @@ meu-xamego/
 ---
 
 ## ❤️ Agradecimentos
-Obrigado por jogar **Meu Xamêgo**!
+Obrigado por jogar **SPYRUN**!
 Se encontrar qualquer erro ou quiser sugerir melhorias, fique à vontade para abrir uma **issue** no repositório.
 
 Divirta-se! 🎉
